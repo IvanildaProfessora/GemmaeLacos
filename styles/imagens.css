@@ -1,0 +1,7 @@
+.swiper-slide img,
+.descrição__imagem,
+.card__descrição img {
+  width: 450px; 
+  height: 650px; 
+  object-fit: cover; /* Garante que a imagem se adapte sem distorcer */
+}
